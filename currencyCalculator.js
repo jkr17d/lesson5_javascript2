@@ -1,5 +1,6 @@
 
 function calculateCurrency(){
+        
         /***********************************************************************************************  
         *   Purpose of the calculateCurrency method:  
         *   This method is executed when the 'Calculate' button is clicked.  This method 
